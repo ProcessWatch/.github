@@ -1,8 +1,12 @@
 # ProcessWatch
 
-Cross-platform process monitor with auto-restart, Discord alerting, and a hosted web dashboard for multi-host visibility.
+Lightweight process monitoring for small production hosts, side projects, client apps, home servers, and game servers.
 
-- **Agent** — free, open source, runs on Windows, Linux, and macOS
-- **Dashboard** — hosted SaaS for multi-host monitoring, historical graphs, and team alerts
+- **Agent** - free, open source, cross-platform, with TUI and headless modes
+- **Dashboard** - hosted multi-host visibility, incident history, metrics, and retention
+- **Notifications** - dashboard-managed Discord, Slack, email, and webhook alerts depending on plan
+- **Recovery** - optional restart/recovery commands with cooldowns and retry limits
 
-→ [processwatch.dev](https://processwatch.dev)
+-> [processwatch.dev](https://processwatch.dev)
+
+Agent repo: [github.com/ProcessWatch/agent](https://github.com/ProcessWatch/agent)
